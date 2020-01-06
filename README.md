@@ -9,7 +9,7 @@ La bibliothèque "binascii" qui permet de convertir facilement les données reç
 La bibliothèque "time" qui permet d'intégrer le temps dans le programme
 La bibliothèque "Workbook" qui permet d'écrire des données dans des fichiers excel.
 
-Le dossier ProjetBatterie_SCI_I2C_DAC contient le code c à téléverser sur le micro-controleur et toutes ses dépendance. Le programme a été réalisé dans le fichier "ProjetBatterie.c" . C'est ce fichier qui est à téléverser sur le micro-controleur.
+Le dossier ProjetBatterie_SCI_I2C_DAC contient le code c à téléverser sur le micro-controleur et toutes ses dépendance. Le programme a été réalisé dans le fichier "ProjetBatterie.c" . Ce fichier est à téléverser sur le micro-controleur.
 
 Une fois le montage hardware réalisé (non alimenté) : 
 1. Téléverser sur le microcontrôleur le programme "ProjetBatterie.c".
